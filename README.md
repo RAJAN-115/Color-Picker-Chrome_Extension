@@ -1,6 +1,4 @@
-Here's a polished and professional-looking `README.md` for your Color Picker Chrome Extension:
 
----
 
 # 🎨 Color Picker Extension
 
